@@ -51,7 +51,7 @@ export function HeroSection() {
           <section className="relative min-h-screen  flex items-center justify-center overflow-hidden">
             <div className="absolute  flex items-center justify-center">
               <h1
-                className="text-[27.5rem] font-bold opacity-25 select-none leading-none text-center mb-96 -translate-y-20 scale-y-75 -translate-x-8 "
+                className="text-[27.5rem] font-bold opacity-25 select-none leading-none text-center mb-96 -translate-y-18 scale-y-75 -translate-x-8 "
                 style={{
                   letterSpacing: "-0.05em",
                   color: "#1E90FF",
