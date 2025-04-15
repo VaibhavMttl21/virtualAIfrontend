@@ -64,7 +64,7 @@ export function HeroSection() {
             <div
               className=" bg-center h-screen w-full bg-no-repeat mt-10 "
               style={{
-                backgroundImage: "url('mnmn 1.png')",
+                backgroundImage: "url('/mnmn 1.png')",
                 backgroundSize: "1100px 1100px",
               }}
             >
